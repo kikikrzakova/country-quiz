@@ -1,0 +1,22 @@
+.numberButton {
+    margin: 20px 0px;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    border: none;
+    background-color: #393F6E;
+    color: #E2E4F3;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.numberButton:hover {
+    background: linear-gradient(to right, #E65895, #BC6BE8);
+    cursor: pointer;
+}
+
+.buttonContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}

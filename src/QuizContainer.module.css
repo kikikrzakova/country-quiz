@@ -1,0 +1,11 @@
+.container {
+    background-color: #343964;
+    width: 100%;
+    border-radius: 30px;
+}
+
+.questionNumbersContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
